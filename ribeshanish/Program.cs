@@ -29,7 +29,7 @@ namespace ribeshanish
             //    while(i<=n)
             //    {
             //        sum = sum + i;
-            //        i++;
+            //        i++; 
 
             //    }
             //    Console.WriteLine(sum);
